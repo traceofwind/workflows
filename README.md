@@ -1,5 +1,3 @@
 # Workflows Course
 
-This project is an example of workflow management for a lynda.com course.
-
-Updated: 2210
+This project is a showcase for project Workflows.
