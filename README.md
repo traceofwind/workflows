@@ -20,3 +20,12 @@ git commit -m "Description of the commit here"
 Push your local repo online:
 
 git push
+
+### Notes
+
+Installing gulp into the project folder as a developer dependency (devDependency) via npm:
+
+npm install --save-dev gulp
+npm install --save-dev gulp-util
+
+When we do this, npm is going to automatically fill out our package.json file.

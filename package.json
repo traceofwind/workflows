@@ -12,6 +12,7 @@
   ],
   "author": "Gary Hicks",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
   }
 }
