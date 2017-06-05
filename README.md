@@ -1,3 +1,3 @@
 # Workflows Course
 
-This project is a showcase for project Workflows.
+This project is an example of workflow management for a lynda.com course.

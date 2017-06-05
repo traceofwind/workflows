@@ -10,5 +10,8 @@
   "keywords": [
     "workflow"
   ],
-  "author": "Gary Hicks"
+  "author": "Gary Hicks",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
