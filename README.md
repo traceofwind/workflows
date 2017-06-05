@@ -20,6 +20,7 @@ git commit -m "Description of the commit here"
 Push your local repo online:
 
 git push
+git push -u origin master
 
 ### Notes
 
